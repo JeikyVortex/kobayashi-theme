@@ -1,0 +1,21 @@
+{
+  "name": "kobayashi-theme",
+  "displayName": "Kobayashi's Theme",
+  "description": "that anime girl programmer with red hair",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kobayashi's Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kobayashi's Theme-color-theme.json"
+      }
+    ]
+  }
+}
