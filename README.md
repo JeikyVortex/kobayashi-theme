@@ -4,8 +4,8 @@
 
 ##Source:
 
-- [Yeoman Generator-Code] (https://www.npmjs.com/package/generator-code)
-- [Coder Coder: VSCode Theme Color Generator] (https://coder-coder.com/vs-code-theme-color-generator/)
+- [Yeoman Generator-Code](https://www.npmjs.com/package/generator-code)
+- [Coder Coder: VSCode Theme Color Generator](https://coder-coder.com/vs-code-theme-color-generator/)
 
 **Enjoy!**
 
